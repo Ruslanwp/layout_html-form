@@ -3,7 +3,7 @@
     - [DEMO LINK](https://Ruslanwp.github.io/layout_html-form/) <br>
     - [TEST REPORT LINK](https://Ruslanwp.github.io/layout_html-form/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-___
+___git
 
 ## The task:
 Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`
